@@ -1,8 +1,8 @@
 # Crisp plugin for Craft CMS
 
-![Screenshot](resources/icon.png)
-
 Integrate Crisp.im with Craft
+
+![Screenshot](resources/icon.png)
 
 # About Crisp.im
 
